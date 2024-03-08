@@ -1,4 +1,4 @@
-Crimson
+Change
 Orange
 Green
 Cyan
@@ -10,4 +10,4 @@ Silver
 Fuchsia
 Gray
 Brown
-Red
+Change
